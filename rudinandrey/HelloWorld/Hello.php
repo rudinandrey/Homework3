@@ -2,7 +2,7 @@
 
 namespace rudinandrey\HelloWorld;
 
-class HelloWorld {
+class Hello {
     public function hello() {
         echo "Hello world";
     }
