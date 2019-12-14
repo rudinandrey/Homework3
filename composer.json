@@ -1,8 +1,8 @@
 {
   "name": "rudin/otus",
   "description": "Homework3 for OTUS",
-  "type": "project",
-  "license": "GPL-3.0-or-later",
+  "type": "library",
+  "license": "MIT",
   "authors": [
       {
           "name": "rudinandrey",
