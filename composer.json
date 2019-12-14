@@ -1,4 +1,15 @@
 {
+  "name": "rudin/otus",
+  "description": "Homework3 for OTUS",
+  "type": "project",
+  "license": "Open Source",
+  "authors": [
+      {
+          "name": "rudinandrey",
+          "email": "rudinandrey@yandex.ru"
+      }
+  ],
+  "require": {},
   "autoload": {
     "psr-4": {
       "Rudin\\": "src/Rudin"
