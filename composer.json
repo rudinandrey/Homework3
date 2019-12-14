@@ -2,7 +2,7 @@
   "name": "rudin/otus",
   "description": "Homework3 for OTUS",
   "type": "project",
-  "license": "Open Source",
+  "license": "GPL-3.0-or-later",
   "authors": [
       {
           "name": "rudinandrey",
